@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sdl:home|Door43 (sdl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sdl|d43-sdl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sdl/archive/master.zip|d43-sdl.zip]]
+
+**Recent Changes**
+{{changes>ns = sdl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sdl|Ethnologue data]]
+
